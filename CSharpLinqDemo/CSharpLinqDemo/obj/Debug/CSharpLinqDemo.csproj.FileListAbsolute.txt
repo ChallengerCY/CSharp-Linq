@@ -1,0 +1,6 @@
+c:\visual studio 2013\Projects\CSharpLinqDemo\CSharpLinqDemo\bin\Debug\CSharpLinqDemo.exe.config
+c:\visual studio 2013\Projects\CSharpLinqDemo\CSharpLinqDemo\bin\Debug\CSharpLinqDemo.exe
+c:\visual studio 2013\Projects\CSharpLinqDemo\CSharpLinqDemo\bin\Debug\CSharpLinqDemo.pdb
+c:\visual studio 2013\Projects\CSharpLinqDemo\CSharpLinqDemo\obj\Debug\CSharpLinqDemo.csprojResolveAssemblyReference.cache
+c:\visual studio 2013\Projects\CSharpLinqDemo\CSharpLinqDemo\obj\Debug\CSharpLinqDemo.exe
+c:\visual studio 2013\Projects\CSharpLinqDemo\CSharpLinqDemo\obj\Debug\CSharpLinqDemo.pdb
